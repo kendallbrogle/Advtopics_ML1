@@ -1,4 +1,4 @@
-# adv_topics_ML_hw1
+# advtopics_ML1
 These notebooks focus on topics in machine learning and deeplearning:
 
 The first problem explores the bias-variance tradeoff in regression, involving dataset creation, polynomial estimator fitting, and assessing model complexity tradeoffs.
