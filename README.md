@@ -1,5 +1,5 @@
 # adv_topics_ML_hw1
-This homework assignment for my Advanced topic in data science: Machine learning and deeplearning, focuses on various aspects of data science and machine learning. It comprises four distinct problems:
+These notebooks focus on topics in machine learning and deeplearning:
 
 The first problem explores the bias-variance tradeoff in regression, involving dataset creation, polynomial estimator fitting, and assessing model complexity tradeoffs.
 Problem two involves hyperparameter tuning for the K-Nearest Neighbors (KNN) algorithm using cross-validation, aiming to identify the optimal K and distance metric.
